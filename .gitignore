@@ -19,4 +19,7 @@ yarn-error.log
 /.idea
 /.vscode
 /.docker
-docker
+runtime/docker
+docker/.DS_Store
+docker/nginx/.DS_Store
+docker/php-fpm/.DS_Store
